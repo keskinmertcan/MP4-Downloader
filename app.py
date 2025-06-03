@@ -12,7 +12,7 @@ st.title("🎥 MP4 Video İndirici")
 st.write("YouTube videolarını ve Shorts'ları MP4 formatında indirin!")
 
 # YouTube API anahtarı
-API_KEY = "AIzaSyBvVNuBZhM5N9AOFj1voNKbDlupbJ_nGRY"
+API_KEY = "YOUR_API_KEY"
 
 def extract_video_id(url):
     """Extract video ID from various YouTube URL formats."""
